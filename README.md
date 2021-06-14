@@ -67,3 +67,7 @@ The Python conversion code that started me on my way was adapted from the CoreML
 * Comment interfaces, tensor dimensions, etc
 * Implement batch inference for image_demo
 
+## 追記
+* デモとして見せるため、簡単にプログラムを改造しました。
+* 上記インストールを実行していただき、webcam_demo.pyを実行していただくと、CUIに座標情報が表示されるようにしました。
+* 急ごしらえのため、ほとんど元のプログラムのままですが、ご容赦ください。
